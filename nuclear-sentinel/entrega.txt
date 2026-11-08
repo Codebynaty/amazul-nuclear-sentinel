@@ -1,0 +1,9 @@
+AMAZUL - NUCLEAR SENTINEL | SPRINT 1 - MVP FUNCIONAL
+
+Integrantes:
+- Nome: ______________________  RM: ________
+- Nome: ______________________  RM: ________
+- Nome: ______________________  RM: ________
+
+Repositório GitHub: https://github.com/<usuario>/amazul-nuclear-sentinel
+Vídeo demonstrativo (até 3 min): https://<link-do-video>
