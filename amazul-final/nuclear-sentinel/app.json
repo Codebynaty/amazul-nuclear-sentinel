@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Nuclear Sentinel",
+    "slug": "amazul-nuclear-sentinel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "br.com.amazul.nuclearsentinel"
+    },
+    "ios": {
+      "bundleIdentifier": "br.com.amazul.nuclearsentinel"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
